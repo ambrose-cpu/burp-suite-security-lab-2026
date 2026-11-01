@@ -36,7 +36,30 @@ The objective was to understand how web applications communicate through HTTP re
 - Investigated login requests.
 - Examined authentication responses.
 - Identified JWT authentication tokens.
+  ## Screenshots and Evidence
 
+### 1. Burp Suite Interface
+![Burp Suite Interface](screenshots/Screenshot%20From%202026-10-31%2018-04-56.png)
+
+This screenshot demonstrates the Burp Suite interface used
+for intercepting and analyzing web application traffic.
+
+### 2. HTTP Request Analysis
+![HTTP Request Analysis](screenshots/Screenshot%20From%202026-10-31%2018-13-28.png)
+
+This screenshot demonstrates the inspection of HTTP requests
+during web application security testing.
+
+### 3. Web Traffic Inspection
+![Web Traffic Inspection](screenshots/Screenshot%20From%202026-10-31%2018-27-44.png)
+
+This screenshot documents HTTP traffic inspection.
+
+### 4. Security Testing Evidence
+![Security Testing](screenshots/Screenshot%20From%202026-10-31%2019-13-37.png)
+
+This screenshot provides additional evidence from the
+Burp Suite practical exercises.
 ## Key Concepts Learned
 - HTTP request methods
 - HTTP response codes
